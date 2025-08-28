@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://hobedere.com/support',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry-hobedere/1.0',
+  basePath: '/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
